@@ -6,6 +6,8 @@ This project involves data analysis using **SQL with Python** on three datasets 
 - **Chicago Census Data**
 - **Chicago Public Schools Data**
 
+  
+
 The goal is to extract meaningful insights related to crime hotspots, poverty levels, school safety scores, and community hardship indices using structured queries and pandas operations.
 
 ---
